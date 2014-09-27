@@ -22,6 +22,8 @@ Installation
 
 	- or pick a config file you want
 	
+	- or copy files from this repo
+	
 - Edit pipelight-xxoo
 
 	- change regKey according to {HKCU,HKLM}\Software\MozillaPlugins
