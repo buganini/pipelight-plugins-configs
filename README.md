@@ -1,3 +1,12 @@
+Status
+------
+
+|   | about:plugins | works |
+|:-:|:-:|:-:|
+| qvod  | Y | N |
+| xfplay  | Y | N |
+| xigua  | Y | N |
+
 Installation
 ------
 
