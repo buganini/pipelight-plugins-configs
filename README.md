@@ -6,6 +6,7 @@ Status
 | qvod  | Y | N |
 | xfplay  | Y | N |
 | xigua  | Y | N |
+| jvod  | Y | Y |
 
 Installation
 ------
