@@ -8,7 +8,14 @@ Status
 | xigua  | Y | N |
 | jjvod  | Y | Y |
 
-Installation
+Quick Start
+------
+
+	sudo ./util install jjvod # install
+	sudo ./util create blah # create empty plugin, you'll have to place a config file later
+	sudo ./util remove blah # cleanup installed files, including config file
+
+Detail
 ------
 
 - Enable a random bundled pipelight plugin to make sure other things is working
