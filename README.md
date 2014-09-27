@@ -32,7 +32,7 @@ Installation
 Debug
 -----
 
-- env WINEPREFIX=$HOME/.wine-pipelight /usr/share/pipelight/wine /usr/share/pipelight/pluginloader.exe --dllPath "C:\\Program Files\\QvodPlayer\\" --dllName npQvodInsert.dll
+- env WINEPREFIX=$HOME/.wine-pipelight /usr/share/pipelight/wine /usr/share/pipelight/pluginloader.exe --dllPath "C:\\\\Program Files\\\\QvodPlayer\\\\" --dllName npQvodInsert.dll
 
 	- check if dll is working
 	
