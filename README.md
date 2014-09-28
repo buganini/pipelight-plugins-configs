@@ -1,12 +1,12 @@
 Status
 ------
 
-|   | about:plugins | works |
-|:-:|:-:|:-:|
-| qvod  | Y | N |
-| xfplay  | Y | Sometimes |
-| xigua  | Y | N |
-| jjvod  | Y | Y |
+|   | about:plugins | works | detail |
+|:-:|:-:|:-:|---|
+| qvod  | Y | N | <https://github.com/buganini/pipelight-plugins-configs/issues/4> |
+| xfplay  | Y | Partial | <https://github.com/buganini/pipelight-plugins-configs/issues/1> |
+| xigua  | Y | N | <https://github.com/buganini/pipelight-plugins-configs/issues/2> |
+| jjvod  | Y | Y | <https://github.com/buganini/pipelight-plugins-configs/issues/3> |
 
 Quick Start
 ------
