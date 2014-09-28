@@ -54,8 +54,8 @@ gccRuntimeDlls      =
 # You should prefer using regKey and consider this option only if you have
 # multiple versions of the Flash plugin installed inside the Wineprefix.
 #
-dllPath           = C:\Program Files\QvodPlayer\
-dllName           = npShareModule.dll
+# dllPath           = C:\Program Files\QvodPlayer\
+# dllName           = npShareModule.dll
 
 #
 # Name of the registry key at HKCU\Software\MozillaPlugins\ or
@@ -64,7 +64,7 @@ dllName           = npShareModule.dll
 # You should use this option instead of dllPath/dllName in most cases
 # since you do not need to alter dllPath on a Flash update.
 #
-# regKey              = @adobe.com/FlashPlayer
+regKey              = @qvod.com/QvodShare
 
 #
 # fakeVersion allows to fake the version string of Flash
