@@ -1,0 +1,3 @@
+jjvod	http://dl.jijivod.com/JJPlayersetup_jjvod.exe
+xfplay	http://down.xfplay.com/xfplay8.90.exe
+xigua	http://s1.xiguaplayer.com/xigua_Install.exe
