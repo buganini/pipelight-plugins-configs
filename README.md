@@ -4,7 +4,7 @@ Status
 |   | about:plugins | works |
 |:-:|:-:|:-:|
 | qvod  | Y | N |
-| xfplay  | Y | N |
+| xfplay  | Y | Sometimes |
 | xigua  | Y | N |
 | jjvod  | Y | Y |
 
