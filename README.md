@@ -11,9 +11,9 @@ Status
 Quick Start
 ------
 
-	sudo ./util install jjvod # install
-	sudo ./util create blah # create empty plugin, you'll have to place a config file later
-	sudo ./util remove blah # cleanup installed files, including config file
+	sudo ./util.sh install jjvod # install
+	sudo ./util.sh create blah # create empty plugin, you'll have to place a config file later
+	sudo ./util.sh remove blah # cleanup installed files, including config file
 
 Detail
 ------
