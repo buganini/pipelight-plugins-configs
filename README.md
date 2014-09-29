@@ -3,7 +3,7 @@ Status
 
 |   | status | detail | winetricks dependency |
 |:-:|:-:|---|---|
-| qvod  | 0% | [#4](https://github.com/buganini/pipelight-plugins-configs/issues/4) | |
+| qvod  | 0% | [#4](https://github.com/buganini/pipelight-plugins-configs/issues/4) | cjkfonts |
 | xfplay  | 70% | [#1](https://github.com/buganini/pipelight-plugins-configs/issues/1) | |
 | xigua  | 10% | [#2](https://github.com/buganini/pipelight-plugins-configs/issues/2) | cjkfonts,quartz |
 | jjvod  | 90% | [#3](https://github.com/buganini/pipelight-plugins-configs/issues/3) | cjkfonts,msxml3 |
