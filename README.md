@@ -5,7 +5,7 @@ Status
 |:-:|:-:|:-:|---|
 | qvod  | Y | N | [#4](https://github.com/buganini/pipelight-plugins-configs/issues/4) |
 | xfplay  | Y | 80% | [#1](https://github.com/buganini/pipelight-plugins-configs/issues/1) |
-| xigua  | Y | N | [#2](https://github.com/buganini/pipelight-plugins-configs/issues/2) |
+| xigua  | Y | 10% | [#2](https://github.com/buganini/pipelight-plugins-configs/issues/2) |
 | jjvod  | Y | Y | [#3](https://github.com/buganini/pipelight-plugins-configs/issues/3) |
 
 Quick Start
